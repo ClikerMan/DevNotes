@@ -62,6 +62,7 @@ h1.titlumare{
     margin-top: 88px;
     display:flex;
     justify-content: center;
+    width: 100%;
 }
 
 .titlu{
